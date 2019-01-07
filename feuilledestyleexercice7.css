@@ -1,0 +1,26 @@
+fieldset.Votreidentite {
+  background: #2574A9;
+  margin-top: 20px;
+}
+legend.Votreidentite {
+  background: #2574A9;
+}
+fieldset.Adressedelivraison {
+  background: #9A12B3;
+}
+legend.Adressedelivraison{
+  background: #9A12B3;
+}
+fieldset.Informationsdereglement {
+  background: #DB0A5B;
+}
+legend.Informationsdereglement {
+  background: #DB0A5B;
+}
+input {
+  border: 0px;
+  margin:1.5px;
+}
+button {
+  border: 1px solid silver;
+}
